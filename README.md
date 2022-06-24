@@ -190,7 +190,12 @@ path_states(solution1)
 </br>
 </br>
 </br>
-## OUTPUT:
+
+
+
+
+
+# OUTPUT:
 
 ![exp4ai2](https://user-images.githubusercontent.com/75235209/168838258-97c2d719-0d92-40b6-afa5-6c030391d28f.PNG)
 
