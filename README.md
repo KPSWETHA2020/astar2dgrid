@@ -185,7 +185,11 @@ grid1 = GridProblem(initial=(1,1), goal =(5,10) ,obstacles=({(1,5),(1,6),(1,7),(
 solution1 = astar_search(grid1)
 path_states(solution1)
 ```
-
+</br>
+</br>
+</br>
+</br>
+</br>
 ## OUTPUT:
 
 ![exp4ai2](https://user-images.githubusercontent.com/75235209/168838258-97c2d719-0d92-40b6-afa5-6c030391d28f.PNG)
