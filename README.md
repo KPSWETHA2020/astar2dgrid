@@ -1,3 +1,6 @@
+## Ex.NO.:04
+## Date:17.05.2022
+
 # A* Path Finding Algorithm for 2D Grid World
 ## AIM
 
@@ -204,6 +207,12 @@ path_states(solution1)
 Explain the Completeness and complexity of the algorithm:
 This algorithm is complete if it guarantees to return a correct answer for any arbitrary input (or, if no answer exists, it guarantees to return failure).
 The time complexity of A* depends on the heuristic.
+```
+
+
+
+
+```
 
 ## RESULT:
 Thus, the algorithm finds the best path to reach the final goal using Informed (Heuristic) Search Strategies.
